@@ -4,6 +4,23 @@ Working through Low Poly Characters - Blender Bitesize Course Course on udemy. I
 
 ![image](https://user-images.githubusercontent.com/3318539/183343673-c0432873-21eb-470f-8dd8-e219b48be4ae.png)
 
+Hardward
+
+Wacom Cintiq Pro 24 Creative Pen Display
+
+![image](https://user-images.githubusercontent.com/3318539/183345064-5268b517-ed25-4dbe-8e40-6ad9d1f13bae.png)
+
+
+CinTweak 24-Xpro Extended Keyboard Tray
+
+![image](https://user-images.githubusercontent.com/3318539/183345096-dce3c030-030a-4c99-8c79-cc256eaeed6a.png)
+
+
+3dconnexion spacemouse pro
+
+![image](https://user-images.githubusercontent.com/3318539/183345164-c9772b91-69ef-4f6d-8fc4-b70fbbd7c5a4.png)
+
+
 
 Progress so far
 
