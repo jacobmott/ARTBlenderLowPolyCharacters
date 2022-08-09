@@ -36,6 +36,14 @@ CinTweak 24-Xpro Extended Keyboard Tray
 
 ![image](https://user-images.githubusercontent.com/3318539/183577216-fbee261d-2b52-44b1-82a9-9725ef765e1e.png)
 
+![image](https://user-images.githubusercontent.com/3318539/183577568-26a504b5-3c88-43dc-9972-4666de835d22.png)
+
+![image](https://user-images.githubusercontent.com/3318539/183577593-ae304ecb-2e5c-42f0-b756-b55d370bed22.png)
+
+![image](https://user-images.githubusercontent.com/3318539/183577644-12137c71-8e61-413c-aaa1-2d156621721b.png)
+
+![image](https://user-images.githubusercontent.com/3318539/183577677-1f30e23c-c6bb-4c85-9a9a-1a65da2022f6.png)
+
 
 
 # 3dconnexion spacemouse pro - settings
