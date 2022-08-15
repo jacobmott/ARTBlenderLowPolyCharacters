@@ -21,9 +21,10 @@ CinTweak 24-Xpro Extended Keyboard Tray
 ![image](https://user-images.githubusercontent.com/3318539/183345164-c9772b91-69ef-4f6d-8fc4-b70fbbd7c5a4.png)
 
 
-Xkeys 16 settings
+Xkeys 16 
 https://xkeys.com/xk16.html
 
+![image](https://user-images.githubusercontent.com/3318539/184585106-82a2d06d-cab2-4ab3-8f1c-3cb1c2e33dae.png)
 
 
 # Complete setup
