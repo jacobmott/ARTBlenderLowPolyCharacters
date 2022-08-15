@@ -21,6 +21,12 @@ CinTweak 24-Xpro Extended Keyboard Tray
 ![image](https://user-images.githubusercontent.com/3318539/183345164-c9772b91-69ef-4f6d-8fc4-b70fbbd7c5a4.png)
 
 
+Xkeys 16 settings
+https://xkeys.com/xk16.html
+
+![image](https://user-images.githubusercontent.com/3318539/184582298-76c39ce4-09e8-42d5-9704-7aca17505c86.png)
+
+
 
 # Progress so far
 
@@ -68,7 +74,16 @@ CinTweak 24-Xpro Extended Keyboard Tray
 
 ![image](https://user-images.githubusercontent.com/3318539/183344579-36743785-ff14-4ecc-ae3c-c5cf049c2de0.png)
 
-![image](https://user-images.githubusercontent.com/3318539/183344814-819d2860-3194-4cc2-af15-4a92b7b8ea4d.png)
+![image](https://user-images.githubusercontent.com/3318539/184582181-9d4bafcf-368d-41be-873f-d9c2ee60beb8.png)
+
+
+
+
+# Xkeys 16 settings
+
+![image](https://user-images.githubusercontent.com/3318539/184582574-0e3a111e-ebb7-4dd0-82b9-a5558364fce0.png)
+
+
 
 # Blender settings
 
