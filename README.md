@@ -46,6 +46,22 @@ CinTweak 24-Xpro Extended Keyboard Tray
 
 
 
+## Did most of section 3: Full character
+
+### Did the man model, now on female model
+
+![image](https://user-images.githubusercontent.com/3318539/184578543-bd002474-d763-401d-a2f5-e577a2bc91b3.png)
+
+
+![image](https://user-images.githubusercontent.com/3318539/184578648-aebd4f48-9634-4efd-9d58-508de55455e7.png)
+
+
+![image](https://user-images.githubusercontent.com/3318539/184578680-ad3e496b-3267-4877-a402-9884b6ea67e8.png)
+
+
+
+
+
 # 3dconnexion spacemouse pro - settings
 
 ![image](https://user-images.githubusercontent.com/3318539/183344552-4ee0db6b-ad14-451d-b23f-3a93fdf8f7a3.png)
