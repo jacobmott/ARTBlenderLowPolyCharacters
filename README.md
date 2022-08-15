@@ -28,6 +28,7 @@ https://xkeys.com/xk16.html
 
 # Complete setup
 
+![image](https://user-images.githubusercontent.com/3318539/184585011-d34008f9-8be1-42a1-94ce-f21ce4c72662.png)
 
 
 # Progress so far
