@@ -3,6 +3,8 @@ Working through Low Poly Characters - Blender Bitesize Course Course on udemy. I
 
 https://www.udemy.com/course/blender-low-poly-characters/
 
+https://community.gamedev.tv/t/my-cyborg/209233
+
 
 ![image](https://user-images.githubusercontent.com/3318539/183343673-c0432873-21eb-470f-8dd8-e219b48be4ae.png)
 
