@@ -60,7 +60,7 @@ https://xkeys.com/xk16.html
 
 
 
-## Did most of section 3: Full character
+## Finished Section 3: Full character
 
 ### Did the man model, now on female model
 
@@ -72,6 +72,11 @@ https://xkeys.com/xk16.html
 
 ![image](https://user-images.githubusercontent.com/3318539/184578680-ad3e496b-3267-4877-a402-9884b6ea67e8.png)
 
+### Did unique/own models based on male model, smaller teenager style models
+
+![image](https://user-images.githubusercontent.com/3318539/185293842-0d4ecb42-5567-4154-8709-4bcdfa1f2463.png)
+
+![image](https://user-images.githubusercontent.com/3318539/185293962-64b75a9d-a9ab-48a4-a15d-35f7828b150a.png)
 
 
 
