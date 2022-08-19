@@ -115,7 +115,7 @@ https://xkeys.com/xk16.html
 
 # TourBox NEO settings
 
-![image](https://user-images.githubusercontent.com/3318539/185551960-3ceac937-212a-46e4-ab9d-4ebb79e4d621.png)
+![image](https://user-images.githubusercontent.com/3318539/185552063-113c9a9c-7c23-4e9b-8d49-544112177cf4.png)
 
 
 
