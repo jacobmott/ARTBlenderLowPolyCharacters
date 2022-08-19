@@ -10,7 +10,7 @@ https://community.gamedev.tv/t/my-cyborg/209233
 
 # Hardware
 
-Wacom Cintiq Pro 24 Creative Pen Display
+## Wacom Cintiq Pro 24 Creative Pen Display
 
 ![image](https://user-images.githubusercontent.com/3318539/183345064-5268b517-ed25-4dbe-8e40-6ad9d1f13bae.png)
 
@@ -20,12 +20,19 @@ CinTweak 24-Xpro Extended Keyboard Tray
 ![image](https://user-images.githubusercontent.com/3318539/183345096-dce3c030-030a-4c99-8c79-cc256eaeed6a.png)
 
 
-3dconnexion spacemouse pro
+## TourBox NEO
+
+https://www.tourboxtech.com/en/product.html
+
+![image](https://user-images.githubusercontent.com/3318539/185551148-37a02d6e-10e9-46ce-91fb-255c3a453967.png)
+
+
+## 3dconnexion spacemouse pro
 
 ![image](https://user-images.githubusercontent.com/3318539/183345164-c9772b91-69ef-4f6d-8fc4-b70fbbd7c5a4.png)
 
 
-Xkeys 16 
+## Xkeys 16 
 https://xkeys.com/xk16.html
 
 ![image](https://user-images.githubusercontent.com/3318539/184585106-82a2d06d-cab2-4ab3-8f1c-3cb1c2e33dae.png)
@@ -79,6 +86,15 @@ https://xkeys.com/xk16.html
 ![image](https://user-images.githubusercontent.com/3318539/185293962-64b75a9d-a9ab-48a4-a15d-35f7828b150a.png)
 
 
+## Started Section 4: Detailed Character
+
+### Finished 28 Detailed character and 29 Big Main
+
+![image](https://user-images.githubusercontent.com/3318539/185551703-f251abeb-65bd-4cb4-bcd0-c98effd6ee05.png)
+
+
+![image](https://user-images.githubusercontent.com/3318539/185551664-78563301-a8ac-4095-b249-0237feb10184.png)
+
 
 
 # 3dconnexion spacemouse pro - settings
@@ -91,10 +107,15 @@ https://xkeys.com/xk16.html
 
 
 
-
 # Xkeys 16 settings
 
 ![image](https://user-images.githubusercontent.com/3318539/184582574-0e3a111e-ebb7-4dd0-82b9-a5558364fce0.png)
+
+
+
+# TourBox NEO settings
+
+![image](https://user-images.githubusercontent.com/3318539/185551960-3ceac937-212a-46e4-ab9d-4ebb79e4d621.png)
 
 
 
