@@ -89,16 +89,27 @@ https://xkeys.com/xk16.html
 ![image](https://user-images.githubusercontent.com/3318539/185293962-64b75a9d-a9ab-48a4-a15d-35f7828b150a.png)
 
 
-## Started Section 4: Detailed Character
+## Finished Section 4: Detailed Character
 
-### Finished 28 Detailed character and 29 Big Main
 
 ![image](https://user-images.githubusercontent.com/3318539/185551703-f251abeb-65bd-4cb4-bcd0-c98effd6ee05.png)
 
-
 ![image](https://user-images.githubusercontent.com/3318539/185551664-78563301-a8ac-4095-b249-0237feb10184.png)
 
+![image](https://user-images.githubusercontent.com/3318539/185782478-e15a57d1-1828-495e-a826-66bccb8c158b.png)
 
+![image](https://user-images.githubusercontent.com/3318539/185782564-a7eb006a-46bf-47a4-af50-680219b6da5e.png)
+
+
+## Finished Section 5: Basic rigging
+
+![image](https://user-images.githubusercontent.com/3318539/185782441-b0996c61-ec6c-4840-9b37-a2ab15b4cdad.png)
+
+![image](https://user-images.githubusercontent.com/3318539/185782453-f9321432-1d9c-4b4b-aa51-1952241a7238.png)
+
+![image](https://user-images.githubusercontent.com/3318539/185782519-d0b259af-0399-4c4d-a8f0-50763882bf14.png)
+
+![image](https://user-images.githubusercontent.com/3318539/185782543-d3b406b7-402f-4e12-9fea-23e2c41e7574.png)
 
 # 3dconnexion spacemouse pro - settings
 
