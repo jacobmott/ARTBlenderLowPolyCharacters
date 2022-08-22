@@ -111,14 +111,6 @@ https://xkeys.com/xk16.html
 
 ![image](https://user-images.githubusercontent.com/3318539/185782543-d3b406b7-402f-4e12-9fea-23e2c41e7574.png)
 
-# 3dconnexion spacemouse pro - settings
-
-![image](https://user-images.githubusercontent.com/3318539/183344552-4ee0db6b-ad14-451d-b23f-3a93fdf8f7a3.png)
-
-![image](https://user-images.githubusercontent.com/3318539/183344579-36743785-ff14-4ecc-ae3c-c5cf049c2de0.png)
-
-![image](https://user-images.githubusercontent.com/3318539/184582181-9d4bafcf-368d-41be-873f-d9c2ee60beb8.png)
-
 
 ## Started Section 6: Female Character
 
@@ -129,6 +121,17 @@ https://xkeys.com/xk16.html
 ![image](https://user-images.githubusercontent.com/3318539/185852580-27121f3b-3226-4ff8-914f-0b6242100019.png)
 
 ![image](https://user-images.githubusercontent.com/3318539/185852630-8301b9c1-b417-4d17-adc0-f7a2ef4c9454.png)
+
+
+
+# 3dconnexion spacemouse pro - settings
+
+![image](https://user-images.githubusercontent.com/3318539/183344552-4ee0db6b-ad14-451d-b23f-3a93fdf8f7a3.png)
+
+![image](https://user-images.githubusercontent.com/3318539/183344579-36743785-ff14-4ecc-ae3c-c5cf049c2de0.png)
+
+![image](https://user-images.githubusercontent.com/3318539/184582181-9d4bafcf-368d-41be-873f-d9c2ee60beb8.png)
+
 
 
 # Xkeys 16 settings
