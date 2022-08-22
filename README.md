@@ -120,6 +120,16 @@ https://xkeys.com/xk16.html
 ![image](https://user-images.githubusercontent.com/3318539/184582181-9d4bafcf-368d-41be-873f-d9c2ee60beb8.png)
 
 
+## Started Section 6: Female Character
+
+### Finished  38, 39, 40
+
+![image](https://user-images.githubusercontent.com/3318539/185852527-d69c315a-8ea7-40f9-ba44-283262e19f9e.png)
+
+![image](https://user-images.githubusercontent.com/3318539/185852580-27121f3b-3226-4ff8-914f-0b6242100019.png)
+
+![image](https://user-images.githubusercontent.com/3318539/185852630-8301b9c1-b417-4d17-adc0-f7a2ef4c9454.png)
+
 
 # Xkeys 16 settings
 
