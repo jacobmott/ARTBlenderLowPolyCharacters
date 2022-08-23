@@ -13,7 +13,7 @@ Final render/animnation youtube demo video
 
 https://www.youtube.com/watch?v=g4KwOhYJ0VI
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g4KwOhYJ0VI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/g4KwOhYJ0VI/0.jpg)](https://www.youtube.com/watch?v=g4KwOhYJ0VI)
 
 
 
