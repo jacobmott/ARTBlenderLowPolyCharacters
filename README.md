@@ -1,5 +1,5 @@
 # ARTBlenderLowPolyCharacters
-Working through Low Poly Characters - Blender Bitesize Course Course on udemy. In Progress... 
+Working through Low Poly Characters - Blender Bitesize Course Course on udemy. Finished the Course!
 
 https://www.udemy.com/course/blender-low-poly-characters/
 
@@ -112,15 +112,28 @@ https://xkeys.com/xk16.html
 ![image](https://user-images.githubusercontent.com/3318539/185782543-d3b406b7-402f-4e12-9fea-23e2c41e7574.png)
 
 
-## Started Section 6: Female Character
+## Finished Section 6: Female Character
 
-### Finished  38, 39, 40
 
 ![image](https://user-images.githubusercontent.com/3318539/185852527-d69c315a-8ea7-40f9-ba44-283262e19f9e.png)
 
 ![image](https://user-images.githubusercontent.com/3318539/185852580-27121f3b-3226-4ff8-914f-0b6242100019.png)
 
 ![image](https://user-images.githubusercontent.com/3318539/185852630-8301b9c1-b417-4d17-adc0-f7a2ef4c9454.png)
+
+![2022_08_23_00_32_50_](https://user-images.githubusercontent.com/3318539/186085080-503a0161-e03e-47cd-88a7-6d90f7e4b718.png)
+
+![2022_08_23_00_33_32_Low_Poly_Characters_Blender_Bitesize_Course_Udemy_Mozilla_Firefox](https://user-images.githubusercontent.com/3318539/186085084-3604379e-0a74-4603-9740-1a1068b7b557.png)
+
+![2022_08_23_00_43_36_Low_Poly_Characters_Blender_Bitesize_Course_Udemy_Mozilla_Firefox](https://user-images.githubusercontent.com/3318539/186085087-cb8c76fb-385a-4020-941c-0d56ac89353e.png)
+
+![2022_08_23_00_52_09_Low_Poly_Characters_Blender_Bitesize_Course_Udemy_Mozilla_Firefox](https://user-images.githubusercontent.com/3318539/186085089-de296958-f6dc-4e35-a182-2c840ad76632.png)
+
+![2022_08_23_01_04_17_Low_Poly_Characters_Blender_Bitesize_Course_Udemy_Mozilla_Firefox](https://user-images.githubusercontent.com/3318539/186085091-2e6f65a5-9ff9-4f53-8d1f-7fab772652ba.png)
+
+![2022_08_23_01_10_01_Low_Poly_Characters_Blender_Bitesize_Course_Udemy_Mozilla_Firefox](https://user-images.githubusercontent.com/3318539/186085093-60ea0c97-ca74-4216-b8b6-eb88c95a988b.png)
+
+![2022_08_23_01_13_40_Low_Poly_Characters_Blender_Bitesize_Course_Udemy_Mozilla_Firefox](https://user-images.githubusercontent.com/3318539/186085095-86fdde17-734d-44f8-a4af-439d1ce521af.png)
 
 
 
