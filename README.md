@@ -8,6 +8,14 @@ https://community.gamedev.tv/t/my-cyborg/209233
 
 ![image](https://user-images.githubusercontent.com/3318539/183343673-c0432873-21eb-470f-8dd8-e219b48be4ae.png)
 
+
+Final render/animnation youtube demo video
+
+https://www.youtube.com/watch?v=g4KwOhYJ0VI
+
+![image](https://user-images.githubusercontent.com/3318539/186091386-e21cf2bc-3764-422b-af85-c41f20b0950d.png)
+
+
 # Hardware
 
 ## Wacom Cintiq Pro 24 Creative Pen Display
