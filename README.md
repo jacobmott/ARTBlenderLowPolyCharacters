@@ -19,7 +19,6 @@ https://www.youtube.com/watch?v=g4KwOhYJ0VI
 
 ![0001-0036](https://user-images.githubusercontent.com/3318539/186092643-0353af6d-7258-4df5-90ad-f774d9fc0256.gif)
 
-![image](https://user-images.githubusercontent.com/3318539/186091386-e21cf2bc-3764-422b-af85-c41f20b0950d.png)
 
 
 # Hardware
