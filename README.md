@@ -11,7 +11,7 @@ https://community.gamedev.tv/t/my-cyborg/209233
 
 Final render/animnation youtube demo video
 
-https://www.youtube.com/watch?v=g4KwOhYJ0VI
+https://youtu.be/g4KwOhYJ0VI
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/g4KwOhYJ0VI/0.jpg)](https://www.youtube.com/watch?v=g4KwOhYJ0VI)
 
